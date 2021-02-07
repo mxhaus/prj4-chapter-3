@@ -1,0 +1,22 @@
+@charset "utf-8";
+.my-class {
+    color: red;
+    border: 1px solid blue;
+    background-color: lightblue;
+    padding: 0.5em;
+    text-align: center;
+}
+#my-id {
+    border: 0.5px dotted red;
+    padding: 0.5em;
+    color: purple;
+    text-align: left;
+    background-color: yellow;
+}
+#my-id_2 {
+    border: 10px solid green;
+    padding: 30px 5px 30px 5px;
+    color: green;
+    background-color: lightgrey;
+    text-align: center;
+}
