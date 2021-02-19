@@ -1,2 +1,2 @@
-# prj4-chapter-3
-For check 2
+# prj4-checks
+Repository used for checks.
