@@ -1,12 +1,15 @@
 @charset "utf-8";
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
 .my-class {
-    color: red;
+    background-image: url("../images/fennec_2.jpg");
+    background-size: 90px 50px;
+    color: black;
     border: 1px solid blue;
-    background-color: lightblue;
     padding: 0.5em;
     text-align: center;
 }
 #my-id {
+    font-family: 'Bungee', cursive;
     border: 0.5px dotted red;
     padding: 0.5em;
     color: purple;
