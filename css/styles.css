@@ -18,8 +18,9 @@
 }
 #my-id_2 {
     border: 10px solid green;
-    padding: 30px 5px 30px 5px;
+    padding: 5px 5px 5px 5px;
+    margin: 5px 50px 5px 50px;
     color: green;
     background-color: lightgrey;
-    text-align: center;
+    text-align: center
 }
